@@ -1,0 +1,52 @@
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\bin\Debug\net6.0\appsettings.json
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\bin\Debug\net6.0\mudasser.staticwebassets.runtime.json
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\bin\Debug\net6.0\mudasser.exe
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\bin\Debug\net6.0\mudasser.deps.json
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\bin\Debug\net6.0\mudasser.runtimeconfig.json
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\bin\Debug\net6.0\mudasser.dll
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\bin\Debug\net6.0\mudasser.pdb
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.csproj.AssemblyReference.cache
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.AssemblyInfoInputs.cache
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.AssemblyInfo.cs
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.csproj.CoreCompileInputs.cache
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.RazorAssemblyInfo.cache
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.RazorAssemblyInfo.cs
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\scopedcss\bundle\mudasser.styles.css
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\scopedcss\projectbundle\mudasser.bundle.scp.css
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.dll
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\refint\mudasser.dll
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.pdb
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\mudasser.genruntimeconfig.cache
+C:\Users\abdbu\Downloads\danish project\mudasser\mudasser\obj\Debug\net6.0\ref\mudasser.dll
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\bin\Debug\net6.0\appsettings.json
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\bin\Debug\net6.0\mudasser.staticwebassets.runtime.json
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\bin\Debug\net6.0\mudasser.exe
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\bin\Debug\net6.0\mudasser.deps.json
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\bin\Debug\net6.0\mudasser.runtimeconfig.json
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\bin\Debug\net6.0\mudasser.dll
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\bin\Debug\net6.0\mudasser.pdb
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.csproj.AssemblyReference.cache
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.AssemblyInfoInputs.cache
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.AssemblyInfo.cs
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.csproj.CoreCompileInputs.cache
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.RazorAssemblyInfo.cache
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.RazorAssemblyInfo.cs
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\scopedcss\bundle\mudasser.styles.css
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\scopedcss\projectbundle\mudasser.bundle.scp.css
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.dll
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\refint\mudasser.dll
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.pdb
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\mudasser.genruntimeconfig.cache
+C:\Users\abdbu\OneDrive\Desktop\Mudasser\mudasser\obj\Debug\net6.0\ref\mudasser.dll
